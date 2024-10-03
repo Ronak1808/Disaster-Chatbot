@@ -1,0 +1,10 @@
+This file contains the contact numbers for helpline number for earthquake.
+
+Location        Disaster       Team           Contacts
+India           earthquake      NDRF           011-24363260
+
+
+
+
+
+
